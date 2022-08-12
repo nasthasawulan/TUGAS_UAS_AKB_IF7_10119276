@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+NIM   : 10119276
+Nama  : Nasthasa Wulan Ghani Sopian
+Kelas : IF-7
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_back"
+    tools:context=".View.Fragment2">
+
+    <TextView
+        android:id="@+id/navigation_info2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:text="Halaman Penjelasan"/>
+
+    <RelativeLayout
+        android:id="@+id/layout_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/navigation_info2"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:id="@+id/title_info_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="160dp"
+            android:layout_marginBottom="90dp"
+            android:gravity="center"
+            android:text="My Diary"
+            android:textColor="@color/black"
+            android:textSize="45dp" />
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="20dp"
+        android:layout_below="@id/layout_title">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:text="Aplikasi ini merupakan aplikasi yang dapat menyimpan catatan-catatan penggunanya, dilengkapi dengan fungsi CRUD (Create, Read, Update, Delete). Sehingga dapat diatur oleh penggunanya sendiri."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="135dp"
+            android:text="Nasthasa Wulan - 10119276 - IF7"
+            android:textAlignment="center" />
+    </LinearLayout>
+</RelativeLayout>
