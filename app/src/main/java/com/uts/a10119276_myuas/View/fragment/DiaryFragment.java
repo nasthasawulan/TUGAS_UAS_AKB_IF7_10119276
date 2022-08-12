@@ -25,6 +25,12 @@ import com.uts.a10119276_myuas.View.InputActivity;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ *  NIM   : 10119276
+ *  Nama  : Nasthasa Wulan Ghani Sopian
+ *  Kelas : IF-7
+ */
+
 public class DiaryFragment extends Fragment {
     private MainActivity mainActivity;
     private List<Diary> diary;

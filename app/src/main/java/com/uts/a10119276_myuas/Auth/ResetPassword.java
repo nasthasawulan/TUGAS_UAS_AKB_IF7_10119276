@@ -17,6 +17,12 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.uts.a10119276_myuas.R;
 
+/**
+ *  NIM   : 10119276
+ *  Nama  : Nasthasa Wulan Ghani Sopian
+ *  Kelas : IF-7
+ */
+
 public class ResetPassword extends AppCompatActivity {
 
     private EditText inputEmail;

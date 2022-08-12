@@ -9,6 +9,12 @@ import android.os.Handler;
 import com.uts.a10119276_myuas.Auth.SignInActivity;
 import com.uts.a10119276_myuas.R;
 
+/**
+ *  NIM   : 10119276
+ *  Nama  : Nasthasa Wulan Ghani Sopian
+ *  Kelas : IF-7
+ */
+
 public class SplashScreen extends AppCompatActivity {
 
     Handler handler = new Handler();

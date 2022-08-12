@@ -17,6 +17,12 @@ import com.uts.a10119276_myuas.Presenter.MainActivity;
 import com.uts.a10119276_myuas.R;
 import com.uts.a10119276_myuas.View.InputActivity;
 
+/**
+ *  NIM   : 10119276
+ *  Nama  : Nasthasa Wulan Ghani Sopian
+ *  Kelas : IF-7
+ */
+
 public class SignOut extends Fragment {
 
     private MainActivity mainActivity;

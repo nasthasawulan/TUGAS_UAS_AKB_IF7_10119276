@@ -2,6 +2,12 @@ package com.uts.a10119276_myuas.Model;
 
 import java.io.Serializable;
 
+/**
+ *  NIM   : 10119276
+ *  Nama  : Nasthasa Wulan Ghani Sopian
+ *  Kelas : IF-7
+ */
+
 public class Diary implements Serializable {
     String id;
     String judul;

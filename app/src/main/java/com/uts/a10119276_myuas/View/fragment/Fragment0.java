@@ -20,6 +20,12 @@ import com.uts.a10119276_myuas.View.Fragment2;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ *  NIM   : 10119276
+ *  Nama  : Nasthasa Wulan Ghani Sopian
+ *  Kelas : IF-7
+ */
+
 public class Fragment0 extends Fragment {
     private ViewPager viewPager;
     private PagerAdapter pagerAdapter;

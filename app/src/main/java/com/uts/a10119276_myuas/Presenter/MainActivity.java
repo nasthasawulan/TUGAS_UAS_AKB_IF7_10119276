@@ -23,6 +23,12 @@ import com.uts.a10119276_myuas.View.fragment.Fragment0;
 import com.uts.a10119276_myuas.View.fragment.Profil;
 import com.uts.a10119276_myuas.View.fragment.SignOut;
 
+/**
+ *  NIM   : 10119276
+ *  Nama  : Nasthasa Wulan Ghani Sopian
+ *  Kelas : IF-7
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     private BottomNavigationView botNav;

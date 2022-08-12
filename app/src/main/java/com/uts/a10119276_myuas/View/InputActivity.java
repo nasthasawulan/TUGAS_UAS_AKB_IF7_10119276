@@ -17,6 +17,12 @@ import com.uts.a10119276_myuas.R;
 
 import java.util.Date;
 
+/**
+ *  NIM   : 10119276
+ *  Nama  : Nasthasa Wulan Ghani Sopian
+ *  Kelas : IF-7
+ */
+
 public class InputActivity extends AppCompatActivity {
 
     private DiaryInterface diaryInterface;

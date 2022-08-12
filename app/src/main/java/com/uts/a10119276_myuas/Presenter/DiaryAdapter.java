@@ -15,6 +15,12 @@ import com.uts.a10119276_myuas.View.InputActivity;
 
 import java.util.List;
 
+/**
+ *  NIM   : 10119276
+ *  Nama  : Nasthasa Wulan Ghani Sopian
+ *  Kelas : IF-7
+ */
+
 public class DiaryAdapter extends RecyclerView.Adapter<DiaryAdapter.ViewHolder> {
 
     private List<Diary> diaryList;

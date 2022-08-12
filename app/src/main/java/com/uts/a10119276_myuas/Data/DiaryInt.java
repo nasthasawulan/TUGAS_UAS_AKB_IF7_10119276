@@ -8,6 +8,12 @@ import android.database.sqlite.SQLiteOpenHelper;
 import com.uts.a10119276_myuas.Model.Diary;
 import com.uts.a10119276_myuas.View.DiaryInterface;
 
+/**
+ *  NIM   : 10119276
+ *  Nama  : Nasthasa Wulan Ghani Sopian
+ *  Kelas : IF-7
+ */
+
 public class DiaryInt extends SQLiteOpenHelper implements DiaryInterface {
 
     public DiaryInt(Context context) {

@@ -12,6 +12,12 @@ import androidx.fragment.app.Fragment;
 import com.uts.a10119276_myuas.Presenter.MainActivity;
 import com.uts.a10119276_myuas.R;
 
+/**
+ *  NIM   : 10119276
+ *  Nama  : Nasthasa Wulan Ghani Sopian
+ *  Kelas : IF-7
+ */
+
 public class Profil extends Fragment {
     private MainActivity mainActivity;
 

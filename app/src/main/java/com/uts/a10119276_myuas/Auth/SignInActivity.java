@@ -20,6 +20,12 @@ import com.uts.a10119276_myuas.Presenter.MainActivity;
 import com.uts.a10119276_myuas.R;
 import com.uts.a10119276_myuas.View.fragment.Profil;
 
+/**
+ *  NIM   : 10119276
+ *  Nama  : Nasthasa Wulan Ghani Sopian
+ *  Kelas : IF-7
+ */
+
 public class SignInActivity extends AppCompatActivity {
 
     private EditText inputEmail, inputPassword;
